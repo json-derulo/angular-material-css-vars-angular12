@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { MaterialCssVarsService } from 'angular-material-css-vars';
 
 @Component({
   selector: 'app-root',
